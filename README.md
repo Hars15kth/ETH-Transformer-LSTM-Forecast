@@ -26,3 +26,7 @@ This repository showcases a deep learning pipeline for forecasting Ethereum toke
 
 All results are benchmarked and documented in \[`reports/performance\_summary.md`](reports/performance\_summary.md).
 
+
+
+📄 Ethereum Resume Notebook: Demonstrates forecasting pipeline, metrics, and visuals used in the PDF report. Available in \[`notebooks/Ethereum\_resume.ipynb`](notebooks/Ethereum\_resume.ipynb)
+
