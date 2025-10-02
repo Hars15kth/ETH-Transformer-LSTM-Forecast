@@ -28,5 +28,5 @@ Any use beyond viewing requires \*\*explicit written permission\*\* from the aut
 
 
 
-For inquiries, contact: hansinghx@gmail.com
+For inquiries, contact: harshwardhansinghx@gmail.com
 
